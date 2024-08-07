@@ -1,0 +1,16 @@
+@media (min-width : 300px) and (max-width : 900px) {
+
+    .activity-sec{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .activity-sec-2{
+        width: 100%;
+    }
+
+    .goal-section{
+        width: 100%;
+    }
+}
